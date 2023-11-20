@@ -8,8 +8,7 @@ main:
     url: /
     weight: 10
   - name: Experience
-    url: /
-    #'#'_index.md/experience
+    url: '#'section-experience
     weight: 20
   - name: Projects
     url: /
