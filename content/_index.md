@@ -46,28 +46,25 @@ sections:
       text: Add any **markdown** formatted content here - text, images, videos, galleries - and even HTML code!
       filters:
           # Folders to display content from
-      folders:
-            - project
-              # Only show content with these tags
-              tags: []
-              # Exclude content with these tags
-              exclude_tags: []
+        folders:
+          - project
+        tags: []
+        exclude_tags: []
               # Which Hugo page kinds to show (https://gohugo.io/templates/section-templates/#page-kinds)
-              kinds:
-            - page
-        # Field to sort by, such as Date or Title
-        sort_by: 'Date'
-        sort_ascending: false
-        default_button_index: 0
-        buttons:
-          - name: All
-            tag: '*'
-          - name: Data Science
-            tag: Data
-          - name: Cloud Computing
-            tag: Cloud
-      design:
-        columns: '1'
-        view: showcase
-        flip_alt_rows: false
+        kinds:
+          - page
+      sort_by: 'Date'
+      sort_ascending: false
+      default_button_index: 0
+      buttons:
+        - name: All
+          tag: '*'
+        - name: Data Science
+          tag: Data
+        - name: Cloud Computing
+          tag: Cloud
+    design:
+      columns: '1'
+      view: showcase
+      flip_alt_rows: false
 ---
