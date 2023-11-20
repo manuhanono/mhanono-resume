@@ -8,8 +8,9 @@ main:
     url: /
     weight: 10
   - name: Experience
-    url: '#'_index.md/experience
+    url: /
+    #'#'_index.md/experience
     weight: 20
   - name: Projects
-    url: `#`_index.md/awards
+    url: /
     weight: 30
