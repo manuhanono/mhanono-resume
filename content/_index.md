@@ -1,6 +1,6 @@
 ---
 title: 'Manuel Hanono'
-date: 2023-11-24
+date: 2023-11-18
 type: landing
 
 # Note: `username` refers to the user's folder name in `content/authors/`
