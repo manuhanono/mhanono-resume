@@ -63,7 +63,7 @@ education:
 work:
   - position: Data & Automation Analyst
     company_name: Siemens Healthineers
-    company_url: ''
+    company_url: https://www.siemens-healthineers.com/ar
     company_logo: SH
     date_start: 2023-01-01
     date_end: ''
@@ -75,7 +75,7 @@ work:
       - Migrated dashboards to Qlik Cloud
   - position: Automation Intern
     company_name: Siemens Healthineers
-    company_url: ''
+    company_url: https://www.siemens-healthineers.com/ar
     company_logo: SH
     date_start: 2022-08-01
     date_end: 2022-12-31
