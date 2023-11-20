@@ -16,7 +16,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: portada.jpg
+        filename: assests/media/portada.jpg
     # kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
   - block: experience
     content:
