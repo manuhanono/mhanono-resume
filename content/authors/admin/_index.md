@@ -64,7 +64,7 @@ work:
   - position: Data & Automation Analyst
     company_name: Siemens Healthineers
     company_url: https://www.siemens-healthineers.com/ar
-    company_logo: SH
+    icon: SH
     date_start: 2023-01-01
     date_end: ''
     summary: |2-
