@@ -85,7 +85,7 @@ work:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - position: Assitant Professor
+  - position: Assistant Professor of Applied Statistics
     company_name: Insituto Tecnológico de Buenos Aires
     company_url: ''
     company_logo: ''
