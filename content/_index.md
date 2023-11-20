@@ -19,8 +19,8 @@ sections:
         filename: portada2.jpg
     # kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
   - block: experience
-      title: Experience
-      username: admin
+    title: Experience
+    username: admin
    
     design:
       # Hugo date format
