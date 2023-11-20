@@ -136,11 +136,11 @@ awards:
 #    url: https://www.coursera.org/learn/neural-networks-deep-learning
     date: '2018-12-06'
     awarder: University of Cambridge
-    icon: cambridge
+    icon: University of Cambridge
 #    summary: |
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
 ---
 
-I am currently working as a Data Analyst @ Siemens Healthineers where I am in charge of managing and developing dashboards and automations for the accounting hub in LATAM, while studying Data Science @ InstituTo Tecnológico de Buenos Aires (ITBA).
+I am currently working as a Data Analyst @ Siemens Healthineers where I am in charge of managing and developing dashboards and automations for the accounting hub in LATAM, while studying Data Science @ Instituto Tecnológico de Buenos Aires (ITBA).
 {style="text-align: justify; font-size: 0.8em;"}
