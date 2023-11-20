@@ -34,6 +34,7 @@ sections:
     content:
       title: Awards
       username: admin
+      logo_folder: experience
   - block: languages
     content:
       title: Languages
