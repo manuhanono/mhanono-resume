@@ -16,7 +16,7 @@ sections:
     design:
       banner:
         # Upload your cover image to the `assets/media/` folder and reference it here
-        filename: pexels-daniel-cid-17505897.jpg
+        filename: kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
   - block: experience
     content:
       username: admin
