@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: Manuel Hanono
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Manuel Hanono
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Manuel Saúl
+last_name: Hanono
 
 # Status emoji
 status:
@@ -17,27 +17,27 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Director of Cloud Infrastructure
+role: Data Analyst
 
 # Organizations/Affiliations to display in About block
 organizations:
-  - name: GenCoin
+  - name: Siemens Healthineers
     url: https://www.example.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 social:
   - icon: at-symbol
-    link: 'mailto:your-email@example.com'
+    link: 'mailto:mhanono@itba.edu.ar'
   - icon: x
-    link: https://twitter.com/GetResearchDev
+    link: https://twitter.com/mhanono
     label: Follow me on Twitter
   - icon: github
-    link: https://github.com/gcushen
+    link: https://github.com/mhanono
   - icon: linkedin
-    link: https://www.linkedin.com/
-  - icon: instagram
-    link: https://www.instagram.com/
+    link: https://www.linkedin.com/manuelhanono
+#  - icon: instagram
+#    link: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
@@ -169,5 +169,5 @@ awards:
       Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
-I am currently Director of Cloud Infrastructure at GenCoin where I am leading teams on edge computing, deep sea data center architecture, and hivemind optimization.
+I am currently working as a Data Analyst @Siemens Healthineers where I am in charge of managing and developing dashboards and automations for the accounting hub in LATAM, while studying Data Science @ITBA.
 {style="text-align: justify; font-size: 0.8em;"}
