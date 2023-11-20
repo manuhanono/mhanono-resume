@@ -33,7 +33,7 @@ sections:
     content:
       title: Awards
       username: admin
-    - block: projects
+  - block: projects
     content:
       title: Projects
       username: admin
