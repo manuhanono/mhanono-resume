@@ -23,7 +23,7 @@ sections:
 #      title: Experience
 #      username: admin
       items:
-         - title: Data & Automation Analyst
+        - title: Data & Automation Analyst
         company_name: Siemens Healthineers
         company_url: https://www.siemens-healthineers.com/ar
         company_logo: SH
@@ -35,7 +35,7 @@ sections:
           - Mantain and improve current automations and dashboards
           - Develop new dashboards
           - Migrated dashboards to Qlik Cloud
-      - title: Automation Intern
+        - title: Automation Intern
         company_name: Siemens Healthineers
         company_url: https://www.siemens-healthineers.com/ar
         company_logo: SH
@@ -47,7 +47,7 @@ sections:
           - lorem ipsum dolor sit amet, consectetur adipiscing elit
           - lorem ipsum dolor sit amet, consectetur adipiscing elit
     
-      - title: Assistant Professor of Applied Statistics
+        - title: Assistant Professor of Applied Statistics
         company_name: Insituto Tecnológico de Buenos Aires
         company_url: ''
         company_logo: ''
