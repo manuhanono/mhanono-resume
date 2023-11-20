@@ -76,7 +76,7 @@ work:
   - position: Automation Intern
     company_name: Siemens Healthineers
     company_url: ''
-    icon: assets/media/icons/experience/SH
+    company_logo: SH
     date_start: 2022-08-01
     date_end: 2022-12-31
     summary: |
