@@ -48,11 +48,11 @@ education:
         - Applied Statistics
         - Data Management & Governance
         - Cloud Computing
-#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 
-       
-    button:
-      label: 'Read Thesis'
-      url: 'https://example.com'
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.      
+#    button:
+#      label: 'Read Thesis'
+#      url: 'https://example.com'
+
   - area: MEng Artificial Intelligence
     institution: Massachusetts Institute of Technology
     date_start: 2016-01-01
@@ -87,6 +87,7 @@ work:
       - Develop automations for recurring processes
       - Mantain and improve current automations and dashboards
       - Develop new dashboards
+      - Migrated dashboards to Qlik Cloud
   - position: Automation Intern
     company_name: Siemens Healthineers
     company_url: ''
