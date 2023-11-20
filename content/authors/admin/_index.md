@@ -140,6 +140,12 @@ awards:
 #    summary: |
 #      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
 
+projects:
+    - title: Proyecto I
+      date: '2022-12-06'
+      url: University of Cambridge
+      icon: ITBA
+    
 ---
 
 I am currently working as a Data Analyst @ Siemens Healthineers where I am in charge of managing and developing dashboards and automations for the accounting hub in LATAM, while studying Data Science @ Instituto Tecnológico de Buenos Aires (ITBA).
