@@ -20,8 +20,8 @@ sections:
     # kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
   - block: experience
     content:
-      title: Experience
-      username: admin
+#      title: Experience
+#      username: admin
       items:
          - title: Data & Automation Analyst
         company_name: Siemens Healthineers
