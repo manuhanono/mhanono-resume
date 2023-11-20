@@ -42,7 +42,7 @@ education:
     date_start: 2020-03-01
     date_end: 2024-12-31
     summary: |
-     GPA: 8.5/10
+     GPA: 8.5/10.0
         Courses included:
         * Descriptive & Predictive Analysis
         * Applied Statistics
@@ -58,7 +58,7 @@ education:
     date_start: 2015-03-01
     date_end: 2019-12-31
     summary: |
-      GPA: 8.8/10
+      GPA: 8.8/10.0
     
 work:
   - position: Data & Automation Analyst
