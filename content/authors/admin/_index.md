@@ -64,7 +64,7 @@ work:
   - position: Data & Automation Analyst
     company_name: Siemens Healthineers
     company_url: ''
-    icon: SH.svg
+    icon: SH
     date_start: 2023-01-01
     date_end: ''
     summary: |2-
@@ -76,7 +76,7 @@ work:
   - position: Automation Intern
     company_name: Siemens Healthineers
     company_url: ''
-    company_logo: assets/media/icons/experience/SH.svg
+    icon: assets/media/icons/experience/SH
     date_start: 2022-08-01
     date_end: 2022-12-31
     summary: |
