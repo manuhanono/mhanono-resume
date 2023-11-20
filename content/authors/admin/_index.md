@@ -144,7 +144,7 @@ projects:
     - title: Proyecto I
       date: '2022-12-06'
       url: University of Cambridge
-      icon: ITBA
+ #     icon: ITBA
     
 ---
 
