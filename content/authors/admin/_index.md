@@ -60,41 +60,7 @@ education:
     summary: |
       GPA: 8.8/10.0
     
-work:
-  - position: Data & Automation Analyst
-    company_name: Siemens Healthineers
-    company_url: https://www.siemens-healthineers.com/ar
-    company_logo: SH
-    date_start: 2023-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - Develop automations for recurring processes
-      - Mantain and improve current automations and dashboards
-      - Develop new dashboards
-      - Migrated dashboards to Qlik Cloud
-  - position: Automation Intern
-    company_name: Siemens Healthineers
-    company_url: https://www.siemens-healthineers.com/ar
-    company_logo: SH
-    date_start: 2022-08-01
-    date_end: 2022-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
-  - position: Assistant Professor of Applied Statistics
-    company_name: Insituto Tecnológico de Buenos Aires
-    company_url: ''
-    company_logo: ''
-    date_start: 2022-08-01
-    date_end: ''
-    summary: |
-      Responsibilities include:
-      - Teaching R programming skills
-      - Tutoring students during the semester in order for them to develop an applied statistics project
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
