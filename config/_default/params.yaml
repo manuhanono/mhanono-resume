@@ -38,7 +38,7 @@ header:
     show_day_night: true
     # Attempt to automatically highlight the active menu link? Can be disabled for complex sites.
     highlight_active_link: true
-#    blox: floating-theme-toggler
+    blox: floating-theme-toggler
 
 # Site footer
 footer:
