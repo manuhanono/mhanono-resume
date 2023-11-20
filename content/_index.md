@@ -1,5 +1,5 @@
 ---
-title: 'Home'
+title: 'Manuel Hanono'
 date: 2023-11-24
 type: landing
 
