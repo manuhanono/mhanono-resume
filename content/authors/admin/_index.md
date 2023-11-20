@@ -35,6 +35,7 @@ social:
     link: https://www.linkedin.com/in/manuel-hanono/
 #  - icon: instagram
 #    link: https://www.instagram.com/
+work:
 
 education:
   - area: BA in Data Science
