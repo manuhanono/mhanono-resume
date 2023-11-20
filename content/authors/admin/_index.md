@@ -44,10 +44,10 @@ education:
     summary: |
      GPA: 8.5/10
         Courses included:
-        - Descriptive & Predictive Analysis
-        - Applied Statistics
-        - Data Management & Governance
-        - Cloud Computing
+        * Descriptive & Predictive Analysis
+        * Applied Statistics
+        * Data Management & Governance
+        * Cloud Computing
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.      
 #    button:
 #      label: 'Read Thesis'
