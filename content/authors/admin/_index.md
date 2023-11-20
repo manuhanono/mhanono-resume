@@ -2,27 +2,24 @@
 # Display name
 title: Manuel Hanono
 
-# Name pronunciation (optional)
-name_pronunciation: Manuel Hanono
-
 # Full name (for SEO)
 first_name: Manuel Saúl
 last_name: Hanono
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Data Analyst
+role: Data & Automation Analyst
 
 # Organizations/Affiliations to display in About block
 organizations:
   - name: Siemens Healthineers
-    url: https://www.example.com/
+    url: https://www.siemens-healthineers.com/ar
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,15 +32,15 @@ social:
   - icon: github
     link: https://github.com/mhanono
   - icon: linkedin
-    link: https://www.linkedin.com/manuelhanono
+    link: https://www.linkedin.com/in/manuel-hanono/
 #  - icon: instagram
 #    link: https://www.instagram.com/
 
 education:
   - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    institution: Instituto Tecnológico de Buenos Aires
+    date_start: 2020-03-01
+    date_end: 2024-12-31
     summary: |
       Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
     button:
@@ -72,23 +69,23 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Data & Automation Analyst
+    company_name: Siemens Healthineers
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2023-01-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+      - Develop automations for recurring processes
+      - Mantain and improve current automations and dashboards
+      - Develop new dashboards
+  - position: Automation Intern
+    company_name: Siemens Healthineers
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2022-08-01
+    date_end: 2022-12-31
     summary: |
       Responsibilities include:
       - Migrated infrastructure to a new data center
@@ -130,12 +127,12 @@ skills:
         icon: camera
 
 languages:
-  - name: English
+  - name: Spanish
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: English
+    percent: 90
+  - name: Hebrew
+    percent: 15
 
 # Awards.
 #   Add/remove as many awards below as you like.
