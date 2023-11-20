@@ -19,44 +19,44 @@ sections:
         filename: portada2.jpg
     # kalen-emsley-Bkci_8qcdvQ-unsplash.jpg
   - block: experience
-    content:
 #      title: Experience
 #      username: admin
+    content:
       items:
         - title: Data & Automation Analyst
-        company_name: Siemens Healthineers
-        company_url: https://www.siemens-healthineers.com/ar
-        company_logo: SH
-        date_start: 2023-01-01
-        date_end: ''
-        summary: |2-
-          Responsibilities include:
-          - Develop automations for recurring processes
-          - Mantain and improve current automations and dashboards
-          - Develop new dashboards
-          - Migrated dashboards to Qlik Cloud
+          company_name: Siemens Healthineers
+          company_url: https://www.siemens-healthineers.com/ar
+          company_logo: SH
+          date_start: 2023-01-01
+          date_end: ''
+          summary: |2-
+            Responsibilities include:
+            - Develop automations for recurring processes
+            - Mantain and improve current automations and dashboards
+            - Develop new dashboards
+            - Migrated dashboards to Qlik Cloud
         - title: Automation Intern
-        company_name: Siemens Healthineers
-        company_url: https://www.siemens-healthineers.com/ar
-        company_logo: SH
-        date_start: 2022-08-01
-        date_end: 2022-12-31
-        summary: |
-          Responsibilities include:
-          - Migrated infrastructure to a new data center
-          - lorem ipsum dolor sit amet, consectetur adipiscing elit
-          - lorem ipsum dolor sit amet, consectetur adipiscing elit
+          company_name: Siemens Healthineers
+          company_url: https://www.siemens-healthineers.com/ar
+          company_logo: SH
+          date_start: 2022-08-01
+          date_end: 2022-12-31
+          summary: |
+            Responsibilities include:
+            - Migrated infrastructure to a new data center
+            - lorem ipsum dolor sit amet, consectetur adipiscing elit
+            - lorem ipsum dolor sit amet, consectetur adipiscing elit
     
         - title: Assistant Professor of Applied Statistics
-        company_name: Insituto Tecnológico de Buenos Aires
-        company_url: ''
-        company_logo: ''
-        date_start: 2022-08-01
-        date_end: ''
-        summary: |
-          Responsibilities include:
-          - Teaching R programming skills
-          - Tutoring students during the semester in order for them to develop an applied statistics project
+          company_name: Insituto Tecnológico de Buenos Aires
+          company_url: ''
+          company_logo: ''
+          date_start: 2022-08-01
+          date_end: ''
+          summary: |
+            Responsibilities include:
+            - Teaching R programming skills
+            - Tutoring students during the semester in order for them to develop an applied statistics project
 
     design:
       # Hugo date format
