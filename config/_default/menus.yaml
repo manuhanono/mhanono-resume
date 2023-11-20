@@ -11,5 +11,5 @@ main:
     url: /home/experience
     weight: 20
   - name: Projects
-    url: #awards
+    url: "#awards"
     weight: 30
