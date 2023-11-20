@@ -42,13 +42,14 @@ education:
     date_start: 2020-03-01
     date_end: 2024-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 
-        GPA: 8.5/10
+     GPA: 8.5/10
         Courses included:
         - Descriptive & Predictive Analysis
         - Applied Statistics
         - Data Management & Governance
         - Cloud Computing
+#      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals. 
+       
     button:
       label: 'Read Thesis'
       url: 'https://example.com'
