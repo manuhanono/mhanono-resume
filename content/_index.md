@@ -21,7 +21,6 @@ sections:
   - block: experience
     content:
       username: admin
-      logo_folder: experience
     design:
       # Hugo date format
       date_format: 'January 2006'
