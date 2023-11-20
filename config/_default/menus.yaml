@@ -6,11 +6,9 @@
 main:
   - name: Home
     url: /
-    identifier: home
     weight: 10
   - name: Experience
-    parent: home
-    url: /experience
+    url: /home/experience
     weight: 20
   - name: Projects
     url: section-awards
