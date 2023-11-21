@@ -106,11 +106,11 @@ skills:
         percent: 85
         icon: chart-bar
       - name: SQL
-        description: 'Work with SQL, first skill learned, still very useful'
+        description: 'Worked with SQL, first skill learned, still very useful'
         percent: 85
         icon: circle-stack
       - name: Terraform
-        description: 'Used for projects regarding Cloud Computing, amazed by the power of IaC'
+        description: 'Used for projects during Cloud Computing course, amazed by the power of IaC'
         percent: 55
         icon: code-bracket        
   - name: Interests 
@@ -118,17 +118,17 @@ skills:
     color_border: '#f0bf23'
     items:
       - name: Data Analytics
-        description: 'Worked with Qlik Cloud & Power BI and had several courses on Tableau'
+        description: 'Worked with Qlik & Power BI. Attended courses on Tableau'
         percent: 90
         icon: chart-bar
       - name: Machine Learning & AI
         description: 'Interested on Neural Networks, Predictive models and Big Data'
         percent: 30
-        icon: settings
+        icon: circle-stack
       - name: Cloud Computing 
         description: 'Completed Cloud Computing AWS course @ ITBA. Studying for the AWS Solutions Architect certification'
         percent: 60
-        icon: sky
+        icon: code-bracket
 
 languages:
   - name: Spanish
