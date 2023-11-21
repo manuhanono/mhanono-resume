@@ -126,7 +126,7 @@ skills:
         percent: 30
         icon: circle-stack
       - name: Cloud Computing 
-        description: 'Completed Cloud Computing AWS course @ ITBA. Studying for the AWS Solutions Architect certification'
+        description: 'Completed AWS Cloud course @ ITBA. Studying for the AWS Solutions Architect certification'
         percent: 60
         icon: code-bracket
 
