@@ -101,34 +101,34 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python/R
+      - name: Python & R
         description: 'Developed programming skills to manage large volumes of data and obtain insights'
-        percent: 80
-        icon: code-bracket
+        percent: 85
+        icon: chart-bar
+      - name: SQL
+        description: 'Work with SQL, first skill learned, still very useful'
+        percent: 85
+        icon: circle-stack
       - name: Terraform
         description: 'Used for projects regarding Cloud Computing, amazed by the power of IaC'
         percent: 55
-        icon: chart-bar
-      - name: SQL
-        description: 'Worked with SQL, first skill learned, still very useful'
-        percent: 70
-        icon: circle-stack
+        icon: code-bracket        
   - name: Interests 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Data Analytics
         description: 'Worked with Qlik Cloud & Power BI and had several courses on Tableau'
-        percent: 100
+        percent: 90
         icon: chart-bar
       - name: Machine Learning & AI
         description: 'Interested on Neural Networks, Predictive models and Big Data'
         percent: 30
-        icon: gear
+        icon: settings
       - name: Cloud Computing 
-        description: 'Completed Cloud Computing AWS course @ ITBA, which included IaC application using Terraform. Studying for the AWS Solutions Architect certification'
+        description: 'Completed Cloud Computing AWS course @ ITBA. Studying for the AWS Solutions Architect certification'
         percent: 60
-        icon: clouds
+        icon: sky
 
 languages:
   - name: Spanish
