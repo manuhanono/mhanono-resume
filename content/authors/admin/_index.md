@@ -101,17 +101,17 @@ education:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: Python/R
+        description: 'Developed programming skills to manage large volumes of data and obtain insights'
         percent: 80
         icon: code-bracket
-      - name: R
-        description: ''
-        percent: 100
+      - name: Terraform
+        description: 'Used for projects regarding Cloud Computing, amazed by the power of IaC'
+        percent: 55
         icon: chart-bar
       - name: SQL
-        description: ''
-        percent: 60
+        description: 'Worked with SQL, first skill learned, still very useful'
+        percent: 70
         icon: circle-stack
   - name: Interests 
     color: '#eeac02'
