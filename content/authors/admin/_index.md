@@ -124,11 +124,11 @@ skills:
       - name: Machine Learning & AI
         description: 'Interested on Neural Networks, Predictive models and Big Data'
         percent: 30
-        icon: gears
+        icon: gear
       - name: Cloud Computing 
-        description: 'Completed Cloud Computing AWS course @ ITBA, which included IaC application using Terraform. Studying for the Solutions Architect certification'
+        description: 'Completed Cloud Computing AWS course @ ITBA, which included IaC application using Terraform. Studying for the AWS Solutions Architect certification'
         percent: 60
-        icon: cloud
+        icon: clouds
 
 languages:
   - name: Spanish
