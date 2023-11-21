@@ -28,7 +28,7 @@ sections:
       is_education_first: false
   - block: skills
     content:
-      title: Skills & Hobbies
+      title: Skills & Interests
       username: admin
   - block: awards
     content:
@@ -42,7 +42,7 @@ sections:
     id: posts
     content:
       title: Projects
-      subtitle: ''
+      subtitle: 'Data Analytics, Predictive Models & Cloud Computing Projects'
       text: 'Check out some of my projects below!'
       count: 0
       # Filter on criteria
