@@ -113,22 +113,22 @@ skills:
         description: ''
         percent: 60
         icon: circle-stack
-  - name: Tools 
+  - name: Interests 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Data Analytics
         description: 'Worked with Qlik Cloud & Power BI and had several courses on Tableau'
         percent: 100
-        icon: data
-      - name: Data Mining
-        description: ''
-        percent: 100
-        icon: cat
+        icon: chart-bar
+      - name: Machine Learning & AI
+        description: 'Interested on Neural Networks, Predictive models and Big Data'
+        percent: 30
+        icon: gears
       - name: Cloud Computing 
-        description: ''
-        percent: 80
-        icon: camera
+        description: 'Completed Cloud Computing AWS course @ ITBA, which included IaC application using Terraform. Studying for the Solutions Architect certification'
+        percent: 60
+        icon: cloud
 
 languages:
   - name: Spanish
