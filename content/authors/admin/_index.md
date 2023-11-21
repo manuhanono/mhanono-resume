@@ -30,7 +30,7 @@ social:
  #   link: https://twitter.com/mhanono
  #   label: Follow me on Twitter
   - icon: github
-    link: https://github.com/mhanono
+    link: https://github.com/manuhanono
   - icon: linkedin
     link: https://www.linkedin.com/in/manuel-hanono/
 #  - icon: instagram
@@ -56,9 +56,9 @@ work:
     date_end: 2022-12-31
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Automated manual ETL processes with Knime (Data mining) & UiPath (RPA)
+      - Optimized workflow run times
+      - Improved previously existing automation processes
 
   - position: Assistant Professor of Applied Statistics
     company_name: Insituto Tecnológico de Buenos Aires
@@ -105,7 +105,7 @@ skills:
         description: ''
         percent: 80
         icon: code-bracket
-      - name: Data Science
+      - name: R
         description: ''
         percent: 100
         icon: chart-bar
@@ -113,19 +113,19 @@ skills:
         description: ''
         percent: 60
         icon: circle-stack
-  - name: Tools
+  - name: Tools 
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Data Analytics
+        description: 'Worked with Qlik Cloud & Power BI and had several courses on Tableau'
+        percent: 100
+        icon: data
+      - name: Data Mining
         description: ''
         percent: 100
         icon: cat
-      - name: Photography
+      - name: Cloud Computing 
         description: ''
         percent: 80
         icon: camera
